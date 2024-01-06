@@ -1,8 +1,6 @@
 # You can remove the first two lines to have credentials read from
 # the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or
 # ~/.aws/credentials.
-s3_id: AKIAIUC35RSF5ESJSFOA
-s3_secret: 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
 s3_bucket: www.wolven.press
 cloudfront_distribution_id: E2OGY57OZ10UT8
 
