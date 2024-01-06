@@ -1,0 +1,30 @@
+a.navbar-brand{
+    background-image: url({{ site.title-img | relative_url }});
+}
+
+.avatar-img{
+    outline: 2px solid white;
+}
+.theme-by{
+    display:none;
+}
+
+h1{
+    font-size: 3.2rem !important;
+    margin-top: 40px !important;
+}
+div[role="main"]{
+    min-height: 500px;
+}
+.dropdown-item{
+    white-space: nowrap;
+}
+.dropdown-menu{
+    position: absolute !important;
+    width: 200px !important;
+    right: 0;
+    left: auto;
+}
+.fa-facebook, .fa-twitter, .fa-instagram{
+    display: block !important;
+}

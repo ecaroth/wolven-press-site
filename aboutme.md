@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Wolven press is the small-press indie publishing arm of [EC3D Design](https://www.ec3d.design/), a business created by Evan Carothers.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Evan is creating comics, webcomics, and graphic novels about various topics and genres, including sci-fi, fantasy, and more.
 
-What else do you need?
+<img src="{{ site.url }}/assets/img/evanphoto.png" style="width:200px; margin:0 auto;">
+<img src="{{ site.url }}/assets/img/ec3dphoto.png" style="width:200px; margin:0 auto;">
 
-### My story
+### Evan's story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Evan is an entrepreneur, software engineer, and hardcore nerd. He's been designing products, experiences, and stories for his entire life.
+Under the banner of EC3D Design, Evan has created and successfully crowdfunded over 15 campaigns on [Kickstarter](https://www.kickstarter.com/profile/ecaroth).
